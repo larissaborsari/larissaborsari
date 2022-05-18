@@ -14,6 +14,6 @@ My name is **Larissa**, I'm graduated in ***Environmental Engineering*** 🌎 an
 [![website](./instagram.png)](https://www.instagram.com/_borsari/)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larissaborsari&langs_count=10&theme=aura)](https://github.com/larissaborsari/larissaborsari)
+<center>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larissaborsari&langs_count=10&theme=aura)](https://github.com/larissaborsari/larissaborsari)</center>
 
 
