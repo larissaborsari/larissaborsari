@@ -10,5 +10,5 @@ My name is **Larissa**, I'm graduated in ***Environmental Engineering*** 🌎 an
 <br>
 <br>
 ### Connect with me:
-[![website](./img/linkedin.png)](https://www.linkedin.com/in/larissa-borsari-95a713170/)
-[![website](./img/instagram.png)](https://www.instagram.com/_borsari/)
+[![website](./linkedin.png)](https://www.linkedin.com/in/larissa-borsari-95a713170/)
+[![website](./instagram.png)](https://www.instagram.com/_borsari/)
