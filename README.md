@@ -11,10 +11,4 @@ My name is **Larissa**, I'm graduated in ***Environmental Engineering*** 🌎 an
 <br>
 ### Visit me at ➡️ [Exercism.org](https://exercism.org/profiles/larissaborsari) ⬅️
 <br>
-### Connect with me:
-[![website](./linkedin.png)](https://www.linkedin.com/in/larissa-borsari-95a713170/)&nbsp;&nbsp;
-[![website](./instagram.png)](https://www.instagram.com/_borsari/)
-<br>
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larissaborsari&langs_count=10&theme=aura)](https://github.com/larissaborsari/larissaborsari)
 
