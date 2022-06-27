@@ -1,6 +1,6 @@
 ## Hey 🖖
 
-My name is **Larissa**, I'm graduated in ***Environmental Engineering*** 🌎 and I found myself passionate about *technology* during my studies, when I had to solve many logical problems and deal with all sorts of data analysis. That leaded me to become a learner of the tech ways , so here I am now, taking another challenge and *looking for self improvement*!  
+I am **Larissa**, I'm graduated in ***Environmental Engineering*** 🌎 and I found myself passionate about *technology* during my studies, when I had to solve many logical problems and deal with all sorts of data analysis. That leaded me to become a learner of the tech ways , so here I am now, taking another challenge and *looking for self improvement*! Working as IT Analyst, developing in php, JS, SQL 🌟
 
 🔹 Living in Brazil - SC 📍
 <br>
