@@ -5,8 +5,8 @@ I am **Larissa**, I'm currently working as a Junior FullsTack Software Developer
 <br>
 ### Visit me at 🎈 [Exercism.org](https://exercism.org/profiles/larissaborsari/testimonials) 🎈 [LinkedIn](https://www.linkedin.com/in/larissa-borsari-95a713170/)             
 <br>
-Living in Canada, Studying Software development in Calgary, AB 📍🇨🇦
-Brazilian 🇧🇷
+Living in Canada, Studying Software development in Calgary, AB 📍 🍁 <br>
+Brazilian 📍
 <br>
 
 
