@@ -1,16 +1,14 @@
 ## Hey 🖖
 
-I am **Larissa**, I'm graduated in ***Environmental Engineering*** 🌎 and I found myself passionate about *technology* during my studies, when I had to solve many logical problems and deal with all sorts of data analysis. That led me to become a learner of the tech ways , so here I am now, taking another challenge and *looking for self improvement*! Working as a software developer 🌟
-
-🔹 Living in Brazil - SC 📍
-<br>
-🔹 Always looking for global opportunities 🔍
-<br>
-🔹 *"Apressa-te a viver bem e pensa que cada dia é, por si só, uma vida. / Begin at once to live, and count each separate day as a separate life.”* (Lucius  Annaeus Seneca)
+I am **Larissa**, I'm currently working as a Junior FullsTack Software Developer, implementig features for a comex ERP using JavaScript, TypeScript ReactJS, NextJS, SASS/CSS, C#, .NET framework and PostgreSQL mainly, all that in an agile environment (applying Scrum routines). I also study a loto of Java 😄
 <br>
 <br>
 ### Visit me at 🎈 [Exercism.org](https://exercism.org/profiles/larissaborsari/testimonials) 🎈 [LinkedIn](https://www.linkedin.com/in/larissa-borsari-95a713170/)             
 <br>
+Living in Canada, Studying Software development in Calgary, AB 📍🇨🇦
+Brazilian 🇧🇷
+<br>
+
 
 <div align="center">
   <a href="https://github.com/larissaborsari">
