@@ -1,12 +1,16 @@
 ## Hey 🖖
-
+<div align="center">
 I am **Larissa**, I'm currently working as a Junior Full Stack Software Developer, implementig features for an international trade ERP using TypeScript, ReactJS, NextJS, SASS/CSS, C#, .NET, Entity framework and PostgreSQL mainly, all that in an Agile environment (applying Scrum routines). I also study a lot of Java 😄
 <br>
 <br>
-### Visit me at 🎈 [Exercism.org](https://exercism.org/profiles/larissaborsari/testimonials) 🎈 [LinkedIn](https://www.linkedin.com/in/larissa-borsari-95a713170/)             
+  
+### Visit me at<div align="center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-borsari-95a713170/)</div>
+
+</div>        
 <br>
+<div align="center">
 Living in Canada, Studying Software Development in Calgary, AB 📍 🍁 <br>
-Brazilian 📍
+Brazilian 📍</div>
 <br>
 <br>
 
