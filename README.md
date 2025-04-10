@@ -7,9 +7,6 @@ I am <b>Larissa</b>, I'm currently working as a Full Stack Software Developer, i
 
 </div>        
 <br>
-<div align="center">
-Living in Canada, Studying Software Development in Calgary, AB 📍 🍁 <br>
-Brazilian 📍</div>
 <br>
 <br>
 
